@@ -110,23 +110,26 @@ The project was developed using **PHP, MySQL, JavaScript, Bootstrap, HTML, and C
 
 ## 🖥️ Screenshots
 
-### Dashboard
+A glimpse of the Pharmacy Management System interface, management modules, and analytics dashboard.
 
-<p align="center">
-  <img src="images/screen-shots/ss1.0.png" alt="Pharmacy Management System Dashboard" width="900">
-</p>
-
-### Login
-
-<p align="center">
-  <img src="images/screen-shots/ss2.0.png" alt="Pharmacy Management System Login" width="900">
-</p>
-
-### Medicine Management
-
-<p align="center">
-  <img src="images/screen-shots/ss3.0.png" alt="Medicine Management" width="900">
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/dashboard.png" alt="Pharmacy Management System Dashboard">
+    </td>
+    <td width="50%">
+      <img src="assets/manage-customer.png" alt="Customer Management">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/manage-supplier.png" alt="Supplier Management">
+    </td>
+    <td width="50%">
+      <img src="assets/sales-analytics.png" alt="Sales Analytics">
+    </td>
+  </tr>
+</table>
 
 > The repository contains additional screenshots covering the application's management, billing, reporting, and dashboard interfaces.
 
