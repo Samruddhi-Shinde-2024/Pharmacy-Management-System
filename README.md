@@ -484,21 +484,21 @@ Possible future improvements include:
 
 ## 👩‍💻 Author
 
-### Samruddhi Shinde
+**Samruddhi Shinde**
 
-Information Technology Student at **Vishwakarma Institute of Technology, Pune**
+Information Technology Student @ **Vishwakarma Institute of Technology, Pune**  
+Full Stack Developer • AI/ML Enthusiast
 
-Interested in:
-
-* Full Stack Development
-* Machine Learning
-* AI-powered applications
-* Software Engineering
-
-<p align="center">
-  <a href="https://github.com/Samruddhi-Shinde-2024">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">LinkedIn</a>
+<p>
+  <a href="https://github.com/Samruddhi-Shinde-2024">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://samruddhi-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
