@@ -108,25 +108,22 @@ The project was developed using **PHP, MySQL, JavaScript, Bootstrap, HTML, and C
 
 ---
 
-## 🖥️ Screenshots
+## 📸 Screenshots
 
-A glimpse of the Pharmacy Management System interface, management modules, and analytics dashboard.
+A glimpse of the Pharmacy Management System interface and its core management modules.
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="assets/dashboard.png" alt="Pharmacy Management System Dashboard">
-    </td>
-    <td width="50%">
-      <img src="assets/manage-customer.png" alt="Customer Management">
+    <td colspan="2">
+      <img src="assets/dashboard.png" alt="Pharmacy Management System Dashboard" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/manage-supplier.png" alt="Supplier Management">
+      <img src="assets/manage-customer.png" alt="Customer Management" width="100%">
     </td>
     <td width="50%">
-      <img src="assets/sales-analytics.png" alt="Sales Analytics">
+      <img src="assets/manage-supplier.png" alt="Supplier Management" width="100%">
     </td>
   </tr>
 </table>
